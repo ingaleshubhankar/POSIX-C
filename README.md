@@ -17,9 +17,9 @@ This is not a performance guide, and it is not a collection of recipes. **The go
 If you already know C and want to understand how threads actually behave inside a process, this guide is meant to be read from start to finish. By the end, POSIX thread APIs should feel natural, because the behavior they express will already make sense.
 <br>
 <br>
-### Where this guide begins
+## Where this guide begins
 
-The introduction is complete.
+**The introduction is complete**.
 
 From this point forward, the guide moves into the actual concepts of POSIX threads.
 Topics are introduced **in indexed order**, with each index focusing on a single core idea.
