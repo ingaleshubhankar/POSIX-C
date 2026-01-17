@@ -30,8 +30,54 @@ The first concept begins below.
 <br>
 <br>
 
+# Table of Contect
 
+## 1.[POSIX and Threads]
+- 1.1 [What POSIX means for threading]
+- 1.2 [Background and motivation]
+- 1.3 [Why pthread exists]
+- 1.4 [The POSIX–Unix contract]
 
+## 2. [The pthread Library]
+   - What pthread really is
+   - Thread lifecycle
+   - Thread identity and execution model
+
+3. Thread Creation and Synchronization
+   - pthread_create()
+   - pthread_exit()
+   - pthread_join()
+   - Relationship between create, exit, and join
+
+4. Race Conditions and Shared Memory
+   - Why races occur
+   - Memory visibility basics
+   - Why synchronization is required
+
+5. pthread Mutex
+   - Why mutex exists
+   - Lock/unlock semantics
+   - Common mistakes
+
+6. pthread Semaphore
+   - Counting vs binary
+   - When semaphore is needed
+
+7. Mutex vs Semaphore
+   - Differences in intent
+   - When to use which
+   - Combining them safely
+
+8. POSIX Threads and C++
+   - Why C++ introduced std::thread
+   - How it maps to pthread
+   - Why POSIX knowledge still matters
+
+9. Additional Topics (Optional)
+   - Detach vs join
+   - Thread-local storage
+   - Thread cancellation
+   - zombi threads
 
 
 ---
