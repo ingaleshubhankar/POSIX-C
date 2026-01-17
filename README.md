@@ -39,46 +39,49 @@ The first concept begins below.
 - 1.4 [The POSIX–Unix contract]
 
 ## 2. [The pthread Library]
-   - What pthread really is
-   - Thread lifecycle
-   - Thread identity and execution model
+- 2.1 [What pthread really is]
+- 2.2 [Thread lifecycle]
+- 2.3 [Thread identity and execution model]
 
-3. Thread Creation and Synchronization
-   - pthread_create()
-   - pthread_exit()
-   - pthread_join()
-   - Relationship between create, exit, and join
+## 3. [Thread Creation and Synchronization]
+- 3.1 [pthread_create()]
+- 3.2 [pthread_exit()]
+- 3.3 [pthread_join()]
+- 3.4 [Relationship between create, exit, and join]
 
-4. Race Conditions and Shared Memory
-   - Why races occur
-   - Memory visibility basics
-   - Why synchronization is required
+## 4. [Race Conditions and Shared Memory]
+- 4.1 [Why races occur]
+- 4.2 [Memory visibility basics]
+- 4.3 [Why synchronization is required]
 
-5. pthread Mutex
-   - Why mutex exists
-   - Lock/unlock semantics
-   - Common mistakes
+## 5. [pthread Mutex]
+- 5.1 [Why mutex exists]
+- 5.2 [Lock/unlock semantics]
+- 5.3 [Common mistakes]
 
-6. pthread Semaphore
-   - Counting vs binary
-   - When semaphore is needed
+## 6. [pthread Semaphore]
+- 6.1 [Counting vs binary]
+- 6.2 [When semaphore is needed]
 
-7. Mutex vs Semaphore
-   - Differences in intent
-   - When to use which
-   - Combining them safely
+## 7. [Mutex vs Semaphore]
+- 7.1 [Differences in intent]
+- 7.2 [When to use which]
+- 7.3 [Combining them safely]
 
-8. POSIX Threads and C++
-   - Why C++ introduced std::thread
-   - How it maps to pthread
-   - Why POSIX knowledge still matters
+## 8. [POSIX Threads and C++]
+- 8.1 [Why C++ introduced std::thread]
+- 8.2 [How it maps to pthread]
+- 8.3 [Why POSIX knowledge still matters]
 
 9. Additional Topics (Optional)
-   - Detach vs join
-   - Thread-local storage
-   - Thread cancellation
-   - zombi threads
-
+- 9.1 [Detach vs join]
+- 9.2 [Thread-local storage]
+- 9.3 [Thread cancellation]
+- 9.4 [zombi threads]
+<br>
+<br>
+<br>
+<br>
 
 ---
 
