@@ -3,7 +3,7 @@ Multithreading is one of those topics that feels complicated not because it is l
 <br>
 This guide takes a different approach.
 <br>
-![My Image](https://github.com/ingaleshubhankar/CPP-HANDBOOK/blob/main/CPP-Handbook.png)
+![My Image](https://github.com/ingaleshubhankar/POSIX-C/blob/main/Pthread.png)
 <br>
 <br>
 The guide progresses in small, intentional steps. Each section introduces one idea, explains why it exists, and only then shows the minimum code required to make it concrete. Examples are kept short and focused, and nothing is introduced without a reason. If a concept does not help you understand execution more clearly, it is left out.
