@@ -28,7 +28,6 @@ Every concept builds on the previous one and is explained before any additional 
 The first concept begins below.
 <br>
 <br>
-<br>
 
 # Table of Contect
 
