@@ -32,7 +32,7 @@ The first concept begins below.
 
 ## Table of Contect
 
-### 1.[POSIX and Threads]
+### 1.[POSIX and Threads](https://github.com/ingaleshubhankar/POSIX-C/tree/main/POSIX%20and%20Threads#posix-and-threads)
 - 1.1 [What POSIX means for threading]
 - 1.2 [Background and motivation]
 - 1.3 [Why pthread exists]
