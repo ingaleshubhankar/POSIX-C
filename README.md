@@ -32,10 +32,10 @@ The first concept begins below.
 # Table of Contect
 
 ## 1.[POSIX and Threads](https://github.com/ingaleshubhankar/POSIX-C/tree/main/POSIX%20and%20Threads#posix-and-threads)
-- 1.1 [What POSIX means for threading]
-- 1.2 [Background and motivation]
-- 1.3 [Why pthread exists]
-- 1.4 [The POSIX–Unix contract]
+- 1.1 [What POSIX means for threading](https://github.com/ingaleshubhankar/POSIX-C/blob/main/POSIX%20and%20Threads/What%20POSIX%20means%20for%20threading.md)
+- 1.2 [Background and motivation](https://github.com/ingaleshubhankar/POSIX-C/blob/main/POSIX%20and%20Threads/Background%20and%20motivation.md)
+- 1.3 [Why pthread exists](https://github.com/ingaleshubhankar/POSIX-C/blob/main/POSIX%20and%20Threads/Why%20pthread%20exists.md)
+- 1.4 [The POSIX–Unix contract](https://github.com/ingaleshubhankar/POSIX-C/blob/main/POSIX%20and%20Threads/The%20POSIX%20Unix%20contract.md)
 
 ## 2. [The pthread Library]
 - 2.1 [What pthread really is]
