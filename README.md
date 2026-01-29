@@ -37,42 +37,42 @@ The first concept begins below.
 - 1.3 [Why pthread exists](https://github.com/ingaleshubhankar/POSIX-C/blob/main/POSIX%20and%20Threads/Why%20pthread%20exists.md)
 - 1.4 [The POSIX–Unix contract](https://github.com/ingaleshubhankar/POSIX-C/blob/main/POSIX%20and%20Threads/The%20POSIX%20Unix%20contract.md)
 
-## 2. [The pthread Library]
+## 2. [The pthread Library](https://github.com/ingaleshubhankar/POSIX-C/tree/main/The%20pthread%20Library#the-pthread-library)
 - 2.1 [What pthread really is]
 - 2.2 [Thread lifecycle]
 - 2.3 [Thread identity and execution model]
 
-## 3. [Thread Creation and Synchronization]
+## 3. [Thread Creation and Synchronization](https://github.com/ingaleshubhankar/POSIX-C/tree/main/Thread%20Creation%20and%20Synchronization#thread-creation-and-synchronization)
 - 3.1 [pthread_create()]
 - 3.2 [pthread_exit()]
 - 3.3 [pthread_join()]
 - 3.4 [Relationship between create, exit, and join]
 
-## 4. [Race Conditions and Shared Memory]
+## 4. [Race Conditions and Shared Memory](https://github.com/ingaleshubhankar/POSIX-C/tree/main/Race%20Conditions%20and%20Shared%20Memory#race-conditions-and-shared-memory)
 - 4.1 [Why races occur]
 - 4.2 [Memory visibility basics]
 - 4.3 [Why synchronization is required]
 
-## 5. [pthread Mutex]
+## 5. [pthread Mutex](https://github.com/ingaleshubhankar/POSIX-C/tree/main/pthread%20Mutex#pthread-mutex)
 - 5.1 [Why mutex exists]
 - 5.2 [Lock/unlock semantics]
 - 5.3 [Common mistakes]
 
-## 6. [pthread Semaphore]
+## 6. [pthread Semaphore](https://github.com/ingaleshubhankar/POSIX-C/tree/main/pthread%20Semaphore#pthread-semaphore)
 - 6.1 [Counting vs binary]
 - 6.2 [When semaphore is needed]
 
-## 7. [Mutex vs Semaphore]
+## 7. [Mutex vs Semaphore](https://github.com/ingaleshubhankar/POSIX-C/tree/main/Mutex%20vs%20Semaphore#mutex-vs-semaphore)
 - 7.1 [Differences in intent]
 - 7.2 [When to use which]
 - 7.3 [Combining them safely]
 
-## 8. [POSIX Threads and C++]
+## 8. [POSIX Threads and C++](https://github.com/ingaleshubhankar/POSIX-C/tree/main/POSIX%20Threads%20and%20C%2B%2B#posix-threads-and-c)
 - 8.1 [Why C++ introduced std::thread]
 - 8.2 [How it maps to pthread]
 - 8.3 [Why POSIX knowledge still matters]
 
-## 9. [Additional Topics]
+## 9. [Additional Topics](https://github.com/ingaleshubhankar/POSIX-C/tree/main/Additional%20Topics#additional-topics)
 - 9.1 [Detach vs join]
 - 9.2 [Thread-local storage]
 - 9.3 [Thread cancellation]
