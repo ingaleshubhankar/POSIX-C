@@ -72,7 +72,7 @@ The first concept begins below.
 - 8.2 [How it maps to pthread]
 - 8.3 [Why POSIX knowledge still matters]
 
-## 9. Additional Topics (Optional)
+## 9. [Additional Topics]
 - 9.1 [Detach vs join]
 - 9.2 [Thread-local storage]
 - 9.3 [Thread cancellation]
