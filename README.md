@@ -38,14 +38,14 @@ The first concept begins below.
 - 1.4 [The POSIX–Unix contract](https://github.com/ingaleshubhankar/POSIX-C/blob/main/POSIX%20and%20Threads/The%20POSIX%20Unix%20contract.md)
 
 ## 2. [The pthread Library](https://github.com/ingaleshubhankar/POSIX-C/tree/main/The%20pthread%20Library#the-pthread-library)
-- 2.1 [What pthread really is]
-- 2.2 [Thread lifecycle]
-- 2.3 [Thread identity and execution model]
+- 2.1 [What pthread really is](https://github.com/ingaleshubhankar/POSIX-C/blob/main/The%20pthread%20Library/What%20is%20pthread%20library.md)
+- 2.2 [Thread lifecycle](https://github.com/ingaleshubhankar/POSIX-C/blob/main/The%20pthread%20Library/Thread%20lifecycle.md)
+- 2.3 [Thread identity and execution model](https://github.com/ingaleshubhankar/POSIX-C/blob/main/The%20pthread%20Library/Thread%20identity%20and%20execution%20model.md)
 
 ## 3. [Thread Creation and Synchronization](https://github.com/ingaleshubhankar/POSIX-C/tree/main/Thread%20Creation%20and%20Synchronization#thread-creation-and-synchronization)
-- 3.1 [pthread_create()]
-- 3.2 [pthread_exit()]
-- 3.3 [pthread_join()]
+- 3.1 [pthread_create()](https://github.com/ingaleshubhankar/POSIX-C/blob/main/Thread%20Creation%20and%20Synchronization/Create%20Thread.md)
+- 3.2 [pthread_exit()](https://github.com/ingaleshubhankar/POSIX-C/blob/main/Thread%20Creation%20and%20Synchronization/Exit%20Thread.md)
+- 3.3 [pthread_join()](https://github.com/ingaleshubhankar/POSIX-C/blob/main/Thread%20Creation%20and%20Synchronization/Join%20Thread.md)
 - 3.4 [Relationship between create, exit, and join]
 
 ## 4. [Race Conditions and Shared Memory](https://github.com/ingaleshubhankar/POSIX-C/tree/main/Race%20Conditions%20and%20Shared%20Memory#race-conditions-and-shared-memory)
