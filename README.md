@@ -68,15 +68,15 @@ The first concept begins below.
 - 7.3 [Combining them safely](https://github.com/ingaleshubhankar/POSIX-C/blob/main/Mutex%20vs%20Semaphore/Combining%20them%20safely.md)
 
 ## 8. [POSIX Threads and C++](https://github.com/ingaleshubhankar/POSIX-C/tree/main/POSIX%20Threads%20and%20C%2B%2B#posix-threads-and-c)
-- 8.1 [Why C++ introduced std::thread]
-- 8.2 [How it maps to pthread]
-- 8.3 [Why POSIX knowledge still matters]
+- 8.1 [Why C++ introduced std::thread](https://github.com/ingaleshubhankar/POSIX-C/blob/main/POSIX%20Threads%20and%20C%2B%2B/Why%20C%2B%2B%20introduced%20thread.md)
+- 8.2 [How it maps to pthread](https://github.com/ingaleshubhankar/POSIX-C/blob/main/POSIX%20Threads%20and%20C%2B%2B/How%20it%20maps%20to%20pthread.md)
+- 8.3 [Why POSIX knowledge still matters](https://github.com/ingaleshubhankar/POSIX-C/blob/main/POSIX%20Threads%20and%20C%2B%2B/Why%20POSIX%20knowledge%20still%20matters.md)
 
 ## 9. [Additional Topics](https://github.com/ingaleshubhankar/POSIX-C/tree/main/Additional%20Topics#additional-topics)
-- 9.1 [Detach vs join]
-- 9.2 [Thread-local storage]
-- 9.3 [Thread cancellation]
-- 9.4 [zombi threads]
+- 9.1 [Detach vs join](https://github.com/ingaleshubhankar/POSIX-C/blob/main/Additional%20Topics/Detach%20vs%20join.md)
+- 9.2 [Thread-local storage](https://github.com/ingaleshubhankar/POSIX-C/blob/main/Additional%20Topics/Thread-local%20storage.md)
+- 9.3 [Thread cancellation](https://github.com/ingaleshubhankar/POSIX-C/blob/main/Additional%20Topics/Thread%20cancellation.md)
+- 9.4 [zombi threads](https://github.com/ingaleshubhankar/POSIX-C/blob/main/Additional%20Topics/zombi%20threads.md)
 <br>
 <br>
 <br>
