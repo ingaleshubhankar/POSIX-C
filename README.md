@@ -46,7 +46,7 @@ The first concept begins below.
 - 3.1 [pthread_create()](https://github.com/ingaleshubhankar/POSIX-C/blob/main/Thread%20Creation%20and%20Synchronization/Create%20Thread.md)
 - 3.2 [pthread_exit()](https://github.com/ingaleshubhankar/POSIX-C/blob/main/Thread%20Creation%20and%20Synchronization/Exit%20Thread.md)
 - 3.3 [pthread_join()](https://github.com/ingaleshubhankar/POSIX-C/blob/main/Thread%20Creation%20and%20Synchronization/Join%20Thread.md)
-- 3.4 [Relationship between create, exit, and join]
+- 3.4 [Relationship between create, exit, and join](https://github.com/ingaleshubhankar/POSIX-C/blob/main/Thread%20Creation%20and%20Synchronization/Relationship%20between%20create%2C%20exit%2C%20and%20join.md)
 
 ## 4. [Race Conditions and Shared Memory](https://github.com/ingaleshubhankar/POSIX-C/tree/main/Race%20Conditions%20and%20Shared%20Memory#race-conditions-and-shared-memory)
 - 4.1 [Why races occur]
