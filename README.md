@@ -59,8 +59,8 @@ The first concept begins below.
 - 5.3 [Common mistakes](https://github.com/ingaleshubhankar/POSIX-C/blob/main/pthread%20Mutex/Common%20mistakes.md)
 
 ## 6. [pthread Semaphore](https://github.com/ingaleshubhankar/POSIX-C/tree/main/pthread%20Semaphore#pthread-semaphore)
-- 6.1 [Counting vs binary]
-- 6.2 [When semaphore is needed]
+- 6.1 [Counting vs binary](https://github.com/ingaleshubhankar/POSIX-C/blob/main/pthread%20Semaphore/Counting%20vs%20binary.md)
+- 6.2 [When semaphore is needed](https://github.com/ingaleshubhankar/POSIX-C/blob/main/pthread%20Semaphore/When%20semaphore%20is%20needed.md)
 
 ## 7. [Mutex vs Semaphore](https://github.com/ingaleshubhankar/POSIX-C/tree/main/Mutex%20vs%20Semaphore#mutex-vs-semaphore)
 - 7.1 [Differences in intent]
