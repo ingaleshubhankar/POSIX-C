@@ -63,9 +63,9 @@ The first concept begins below.
 - 6.2 [When semaphore is needed](https://github.com/ingaleshubhankar/POSIX-C/blob/main/pthread%20Semaphore/When%20semaphore%20is%20needed.md)
 
 ## 7. [Mutex vs Semaphore](https://github.com/ingaleshubhankar/POSIX-C/tree/main/Mutex%20vs%20Semaphore#mutex-vs-semaphore)
-- 7.1 [Differences in intent]
-- 7.2 [When to use which]
-- 7.3 [Combining them safely]
+- 7.1 [Differences in intent](https://github.com/ingaleshubhankar/POSIX-C/blob/main/Mutex%20vs%20Semaphore/Differences%20in%20intent.md)
+- 7.2 [When to use which](https://github.com/ingaleshubhankar/POSIX-C/blob/main/Mutex%20vs%20Semaphore/When%20to%20use%20which.md)
+- 7.3 [Combining them safely](https://github.com/ingaleshubhankar/POSIX-C/blob/main/Mutex%20vs%20Semaphore/Combining%20them%20safely.md)
 
 ## 8. [POSIX Threads and C++](https://github.com/ingaleshubhankar/POSIX-C/tree/main/POSIX%20Threads%20and%20C%2B%2B#posix-threads-and-c)
 - 8.1 [Why C++ introduced std::thread]
