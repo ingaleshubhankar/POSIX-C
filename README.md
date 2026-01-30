@@ -49,14 +49,14 @@ The first concept begins below.
 - 3.4 [Relationship between create, exit, and join](https://github.com/ingaleshubhankar/POSIX-C/blob/main/Thread%20Creation%20and%20Synchronization/Relationship%20between%20create%2C%20exit%2C%20and%20join.md)
 
 ## 4. [Race Conditions and Shared Memory](https://github.com/ingaleshubhankar/POSIX-C/tree/main/Race%20Conditions%20and%20Shared%20Memory#race-conditions-and-shared-memory)
-- 4.1 [Why races occur]
-- 4.2 [Memory visibility basics]
-- 4.3 [Why synchronization is required]
+- 4.1 [Why races occur](https://github.com/ingaleshubhankar/POSIX-C/blob/main/Race%20Conditions%20and%20Shared%20Memory/Why%20races%20occur.md)
+- 4.2 [Memory visibility basics](https://github.com/ingaleshubhankar/POSIX-C/blob/main/Race%20Conditions%20and%20Shared%20Memory/Memory%20visibility%20basics.md)
+- 4.3 [Why synchronization is required](https://github.com/ingaleshubhankar/POSIX-C/blob/main/Race%20Conditions%20and%20Shared%20Memory/Why%20synchronization%20is%20required.md)
 
 ## 5. [pthread Mutex](https://github.com/ingaleshubhankar/POSIX-C/tree/main/pthread%20Mutex#pthread-mutex)
-- 5.1 [Why mutex exists]
-- 5.2 [Lock/unlock semantics]
-- 5.3 [Common mistakes]
+- 5.1 [Why mutex exists](https://github.com/ingaleshubhankar/POSIX-C/blob/main/pthread%20Mutex/Why%20mutex%20exists.md)
+- 5.2 [Lock/unlock semantics](https://github.com/ingaleshubhankar/POSIX-C/blob/main/pthread%20Mutex/Lock%20unlock%20semantics.md)
+- 5.3 [Common mistakes](https://github.com/ingaleshubhankar/POSIX-C/blob/main/pthread%20Mutex/Common%20mistakes.md)
 
 ## 6. [pthread Semaphore](https://github.com/ingaleshubhankar/POSIX-C/tree/main/pthread%20Semaphore#pthread-semaphore)
 - 6.1 [Counting vs binary]
