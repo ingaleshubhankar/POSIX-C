@@ -79,7 +79,5 @@ The first concept begins below.
 - 9.4 [zombi threads](https://github.com/ingaleshubhankar/POSIX-C/blob/main/Additional%20Topics/zombi%20threads.md)
 <br>
 <br>
-<br>
-<br>
 
 ---
